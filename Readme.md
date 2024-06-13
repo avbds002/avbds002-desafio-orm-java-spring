@@ -9,7 +9,8 @@
 
 
 <h2>Modelo de Seeding de banco de dados</h2>
-![image](https://github.com/avbds002/avbds002-desafio-orm-java-spring/assets/169944734/34744e48-2f0c-4749-acf1-c211c1ad46c7)
+![image](https://github.com/avbds002/avbds002-desafio-orm-java-spring/assets/169944734/7f143634-71e1-4d25-a86c-6a5c4a2e2a63)
+
 
 
 <hr>
